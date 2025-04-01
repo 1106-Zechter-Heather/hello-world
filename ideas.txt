@@ -1,1 +1,2 @@
-hello
+This was a pretty simple project. We already have had experience with git in previous projects. We created the repository,
+cloned into our local machines, created new branches, updated one of them and then merged.
